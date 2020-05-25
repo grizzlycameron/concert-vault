@@ -39,7 +39,7 @@ h6 {
   opacity: 0.97 !important;
 }
 
-.FilterBar-check {
+body .FilterBar .FilterBar-check {
   display: none;
 }
 
