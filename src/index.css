@@ -39,6 +39,10 @@ h6 {
   opacity: 0.97 !important;
 }
 
+.FilterBar-check {
+  display: none;
+}
+
 @media (max-width: 666px) {
   body {
     font-size: 14px;
