@@ -1,805 +1,3773 @@
 [
   {
-    "artist": "Ween",
-    "dates": ["12/29/11", "12/30/11", "12/31/11"],
-    "venue": "The Fillmore",
-    "location": "Denver, CO"
+    "artist": "The Chieftans",
+    "venue": "Wharton Center",
+    "location": "East Lansing, MI",
+    "dates": [
+      "02/26/2004"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["08/31/12"],
-    "venue": "Bell's Beer Garden",
-    "location": "Kalamazoo, MI"
+    "artist": "MSU Jazz Professors",
+    "venue": "x?",
+    "location": "East Lansing, MI",
+    "dates": [
+      "2005-?"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Yes",
-    "dates": ["04/12/13"],
-    "venue": "Fox Theater",
-    "location": "Detroit, MI"
+    "artist": "I Eat Glue",
+    "venue": "Temple Club",
+    "location": "Lansing, MI",
+    "dates": [
+      "2005?"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Steely Dan",
-    "dates": ["07/27/13"],
-    "venue": "Fox Theater",
-    "location": "Detroit, MI"
+    "artist": "Global Drum Project",
+    "venue": "Wharton Center",
+    "location": "East Lansing, MI",
+    "dates": [
+      "10/20/2007"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Tommy Emmanuel",
-    "dates": ["09/07/12"],
-    "venue": "State Theater",
-    "location": "Kalamazoo, MI"
+    "artist": "Ratdog",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "08/30/2008"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Tommy Emmanuel",
-    "dates": ["09/22/13"],
-    "venue": "DeVos Performance Hall",
-    "location": "Grand Rapids, MI"
+    "artist": "Eek a Mouse",
+    "venue": "The Aggie Theatre",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "09/10/2008"
+    ],
+    "notes": ""
   },
   {
-    "artist": "G. Love & Special Sauce",
-    "dates": ["08/08/08"],
-    "venue": "Freedom Hill Ampitheater",
-    "location": "Sterling Heights, MI"
+    "artist": "G. Love and the Special Sauce",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "09/12/2008"
+    ],
+    "notes": ""
   },
   {
     "artist": "John Butler Trio",
-    "dates": ["08/08/08"],
-    "venue": "Freedom Hill Ampitheater",
-    "location": "Sterling Heights, MI"
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "09/12/2008"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Zappa Plays Zappa",
-    "dates": ["02/19/14"],
-    "venue": "Michigan Theater",
-    "location": "Ann Arbor, MI"
+    "artist": "Head for the Hills",
+    "venue": "The Aggie Theatre",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "09/26/2008"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Lotus",
-    "dates": ["02/25/10"],
-    "venue": "Royal Oak Music Theater",
-    "location": "Royal Oak, MI"
+    "artist": "Umphrey's Mcgee",
+    "venue": "The Aggie Theatre",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "01/22/2009"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Red Hot Chili Peppers",
-    "dates": ["11/03/06"],
-    "venue": "The Palace",
-    "location": "Auburn Hills, MI"
-  },
-  {
-    "artist": "Joe Satriani",
-    "dates": ["09/21/13"],
-    "venue": "Wings Stadium",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "Lupe Fiasco",
-    "dates": ["02/12/09"],
-    "venue": "MSU Auditorium",
-    "location": "East Lansing, MI"
-  },
-  {
-    "artist": "Floodwood",
-    "dates": ["05/22/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "AfroZep",
-    "dates": ["05/22/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "John Brown's Body",
+    "venue": "The Aggie Theatre",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "02/15/2009"
+    ],
+    "notes": ""
   },
   {
     "artist": "Family Groove Company",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "venue": "Hodi's Half Note",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "03/12/2009"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Groundation",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Victor Wooten Band",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Slightly Stoopid",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Primus",
-    "dates": ["05/23/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Easy Star All Stars",
+    "venue": "The Aggie Theatre",
+    "location": "Fort Collins, CO",
+    "dates": [
+      "03/15/2009"
+    ],
+    "notes": ""
   },
   {
     "artist": "Keller Williams",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "venue": "Breckenridge Riverwalk Center",
+    "location": "Breckenridge, CO",
+    "dates": [
+      "04/18/2009"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Greensky Bluegrass",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Floodwood",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "G. Love & Special Sauce",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Lotus",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/24/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/25/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Zac Brown Band",
-    "dates": ["05/25/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Lettuce",
-    "dates": ["05/25/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Trey Anastasio Band",
-    "dates": ["05/25/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/25/14"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "The Main Squeeze",
-    "dates": ["08/23/14"],
-    "venue": "Logan Square",
-    "location": "Chicago, IL"
-  },
-  {
-    "artist": "The Dean Ween Group",
-    "dates": ["08/23/14"],
-    "venue": "Logan Square",
-    "location": "Chicago, IL"
-  },
-  {
-    "artist": "Leftover Salmon",
-    "dates": ["09/09/14"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["09/19/14"],
-    "venue": "Royal Oak Music Theater",
-    "location": "Royal Oak, MI"
-  },
-  {
-    "artist": "Freeman",
-    "dates": ["09/23/14"],
-    "venue": "Magic Stick Theater",
-    "location": "Detroit, MI"
+    "artist": "The Dead",
+    "venue": "Pepsi Center",
+    "location": "Denver, CO",
+    "dates": [
+      "05/07/2009"
+    ],
+    "notes": ""
   },
   {
     "artist": "Phish",
-    "dates": ["10/31/14", "11/02/14"],
-    "venue": "MGM Grand Garden Arena",
-    "location": "Las Vegas, NV"
+    "venue": "Alpine Valley",
+    "location": "East Troy, WI",
+    "dates": [
+      "06/20/2009"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["10/31/14"],
-    "venue": "Brooklyn Bowl",
-    "location": "Las Vegas, NV"
+    "artist": "Toubab Krewe",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/02/2009"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["11/01/14"],
-    "venue": "Hard Rock Cafe",
-    "location": "Las Vegas, NV"
-  },
-  {
-    "artist": "Greensky Bluegrass",
-    "dates": ["11/02/14"],
-    "venue": "Brooklyn Bowl",
-    "location": "Las Vegas, NV"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["01/31/15"],
-    "venue": "The Fillmore",
-    "location": "Detroit, MI"
-  },
-  {
-    "artist": "Consider The Source",
-    "dates": ["01/12/15"],
-    "venue": "The Huma Room (Hopcat)",
-    "location": "Detroit, MI"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["03/19/15"],
-    "venue": "Bottom Lounge",
-    "location": "Chicago, IL"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["03/20/15", "03/21/15"],
-    "venue": "Concord Music Hall",
-    "location": "Chicago, IL"
+    "artist": "Keller Williams",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/02/2009"
+    ],
+    "notes": ""
   },
   {
     "artist": "Lotus",
-    "dates": ["04/11/15"],
-    "venue": "Royal Oak Music Theater",
-    "location": "Royal Oak, MI"
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/02/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Disco Biscuits",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/02/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Break Science",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/02/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Macpodz",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "King Sunny Ade",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Femi Kuti and the Positive Force",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Damian Marley",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Nas",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Soulive",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Glitch Mob",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/03/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Railroad Earth",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/04/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "John Butler Trio",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/04/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Zappa plays Zappa",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/04/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Black Crowes",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/04/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Dead",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/04/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Toots and the Maytals",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/05/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Willie Nelson",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/05/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bob Dylan",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/05/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Pnuma Trio",
+    "venue": "Rothbury",
+    "location": "Rothbury, MI",
+    "dates": [
+      "07/05/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Herbie Hancock and Lang Lang",
+    "venue": "Ravinia Park",
+    "location": "Highland Park, IL",
+    "dates": [
+      "07/28/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Toyota Park",
+    "location": "Chicago, IL",
+    "dates": [
+      "08/11/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Cobo Arena",
+    "location": "Detroit, MI",
+    "dates": [
+      "11/18/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Project Object",
+    "venue": "Mac's Bar",
+    "location": "Lansing, MI",
+    "dates": [
+      "12/31/2009"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Blue Man Group",
+    "venue": "Wharton Center",
+    "location": "East Lansing, MI",
+    "dates": [
+      "2009/10?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "H.R. (of Bad Brains) w/ Dr. Know",
+    "venue": "Aggie/Hodi's?",
+    "location": "Fort Collins, CO?",
+    "dates": [
+      "2009/10?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Toyota Park",
+    "location": "Chicago, IL",
+    "dates": [
+      "6/11/2010"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "1st Bank Center",
+    "location": "Broomfield, CO",
+    "dates": [
+      "10/12/2010"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "1st Bank Center",
+    "location": "Broomfield, CO",
+    "dates": [
+      "10/31/2010"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Frontier Ruckus",
+    "venue": "Mac's Bar",
+    "location": "Lansing, MI",
+    "dates": [
+      "12/10/2010"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "DTE Music Theatre",
+    "location": "Clarkston, MI",
+    "dates": [
+      "06/03/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lil Smokies",
+    "venue": "x?",
+    "location": "Missoula, MT",
+    "dates": [
+      "2011-?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Leftover Salmon",
+    "venue": "River City Roots",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/28/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Champagne Champagne",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/03/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Shabazz Palaces",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/03/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ray La Montagne",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/03/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "STRFKR",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/03/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Das Racist",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/04/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Thee Oh Sees",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/04/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Butthole Surfers",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/04/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/04/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Big Boi",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/04/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Head Like a Kite",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dennis Coffey",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dam Funk and Master Blazter",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Presidents of the United States of America",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Hall and Oates",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phantogram",
+    "venue": "Bumbershoot",
+    "location": "Seattle, WA",
+    "dates": [
+      "09/05/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Wilco",
+    "venue": "INB Performing Arts Center",
+    "location": "Spokane, WA",
+    "dates": [
+      "02/06/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Furthur",
+    "venue": "Adam's Center",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/27/2011"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Kitchen Dwellers",
+    "venue": "x?",
+    "location": "Missoula, MT",
+    "dates": [
+      "2012-?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Locksaw Cartel",
+    "venue": "x?",
+    "location": "Missoula, MT",
+    "dates": [
+      "2012-?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Shakewell",
+    "venue": "x?",
+    "location": "Missoula, MT",
+    "dates": [
+      "2012-?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dodgy Mountain Men",
+    "venue": "x?",
+    "location": "Missoula, MT",
+    "dates": [
+      "2012-?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "07/07/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Policulture",
+    "venue": "Mountain X",
+    "location": "Fort Collins, CO",
+    "dates": [
+      2012
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Shinedown",
+    "venue": "Adam's Center",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/28/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Robert Randolph and the Family Band",
+    "venue": "River City Roots",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/23/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "8/31/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/01/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/02/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Pretty Lights",
+    "venue": "Big Sky Amphitheatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/05/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grizz",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "10/21/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Big Gigantic",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "10/21/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "10/30/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Infamous Stringdusters",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "10/31/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Nels Cline and Julian Lage",
+    "venue": "Metronome",
+    "location": "Burlington, VT",
+    "dates": [
+      "12/19/2012"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Seth Yacavone",
+    "venue": "Nectar's",
+    "location": "Burlington, VT",
+    "dates": [
+      "2012?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Rough Francis",
+    "venue": "Radiobean",
+    "location": "Burlington, VT",
+    "dates": [
+      "2012?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Toubab Krewe",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "04/04/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/09/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lotus",
+    "venue": "Roseland Theatre",
+    "location": "Portland, OR",
+    "dates": [
+      "03/29/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Family Groove Company",
-    "dates": ["05/21/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/23/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Cornmeal",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/23/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Digital Tape Machine",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/23/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Reverend Peyton's Big Damn Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Floozies",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Wailers",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Medeski Martin and Wood",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Keller w/ More Than a Little",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sound Tribe Sector Nine",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Soul Rebels",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Wood Brothers",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Hot Buttered Rum",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Floodwood",
-    "dates": ["05/21/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Conspirator",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "The Infamous Stringdusters",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Keller Williams and Grateful Grass",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Godboner meets Gene Ween",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/22/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Family Groove Company",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Freeman",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Joe Russo's Almost Dead",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Lettuce",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Victor Wooten",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Karl Denson's Tiny Universe",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Thievery Corporation",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Umphrey's McGee",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["05/23/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "description": "wsg Bruce Hornsby",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Bruce Hornsby & The Noisemakers",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Steve Miller Band",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Widespread Panic",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Widespread Panic",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Greensky Bluegrass",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["05/24/15"],
-    "venue": "Summer Camp Music Festival",
-    "location": "Chilicothe, IL",
-    "series": "Summer Camp Music Festival"
-  },
-  {
-    "artist": "Rush",
-    "dates": ["06/14/15"],
-    "venue": "The Palace",
-    "location": "Auburn Hills, MI"
-  },
-  {
-    "artist": "Peter Frampton",
-    "dates": ["07/12/15"],
-    "venue": "DTE Energy Music Theater",
-    "location": "Clarkston, MI"
-  },
-  {
-    "artist": "Steely Dan",
-    "dates": ["07/27/15"],
-    "venue": "DTE Energy Music Theater",
-    "location": "Clarkston, MI"
-  },
-  {
-    "artist": "Phish",
-    "dates": ["08/08/15", "08/09/15"],
-    "venue": "Alpine Valley",
-    "location": "East Troy, WI"
-  },
-  {
-    "artist": "Lettuce",
-    "dates": ["08/15/15"],
-    "venue": "Meadow Brook Amphitheatre",
-    "location": "Rochester Hills, MI"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["08/15/15"],
-    "venue": "Meadow Brook Amphitheatre",
-    "location": "Rochester Hills, MI"
-  },
-  {
-    "artist": "Keller Williams",
-    "dates": ["08/22/15"],
-    "venue": "Bell's Beer Garden",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "The Wood Brothers",
-    "dates": ["09/06/15"],
-    "venue": "Michigan International Speedway",
-    "location": "Brooklyn, MI"
-  },
-  {
-    "artist": "Gene Ween",
-    "dates": ["10/05/15"],
-    "venue": "The Blind Pig",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "The Infamous Stringdusters",
-    "dates": ["11/07/15"],
-    "venue": "Bell's Beer Garden",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "Greensky Bluegrass",
-    "dates": ["11/27/15", "11/28/15"],
-    "venue": "Kalamazoo State Theater",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["01/31/16"],
-    "venue": "Wings Event Center",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "Tommy Emmanuel",
-    "dates": ["02/24/16"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Everyone Orchestra",
-    "dates": ["03/02/16"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Ween",
-    "dates": ["04/14/16", "04/15/16", "04/16/16"],
-    "venue": "Terminal 5",
-    "location": "New York, NY"
-  },
-  {
-    "artist": "Leftover Salmon",
-    "dates": ["06/05/16"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Jeff Beck",
-    "dates": ["07/30/16"],
-    "venue": "Meadow Brook Amphitheatre",
-    "location": "Rochester Hills, MI"
-  },
-  {
-    "artist": "Buddy Guy",
-    "dates": ["07/30/16"],
-    "venue": "Meadow Brook Amphitheatre",
-    "location": "Rochester Hills, MI"
-  },
-  {
-    "artist": "Yes",
-    "dates": ["08/19/16"],
-    "venue": "Freedom Hill Ampitheater",
-    "location": "Sterling Heights, MI"
-  },
-  {
-    "artist": "Keller Williams & More Than A Little",
-    "dates": ["09/02/16"],
-    "venue": "Bell's Beer Garden",
-    "location": "Kalamazoo, MI"
-  },
-  {
-    "artist": "Mungion",
-    "dates": ["09/24/16"],
-    "venue": "Concord Music Hall",
-    "location": "Chicago, IL"
-  },
-  {
-    "artist": "Moe.",
-    "dates": ["09/23/16", "09/24/16"],
-    "venue": "Concord Music Hall",
-    "location": "Chicago, IL"
-  },
-  {
-    "artist": "Phish",
-    "dates": ["10/28/16", "10/29/16", "10/30/16", "10/31/16"],
-    "venue": "MGM Grand Garden Arena",
-    "location": "Las Vegas, NV"
-  },
-  {
-    "artist": "Ween",
-    "dates": ["02/17/17", "02/18/17", "02/19/17"],
-    "venue": "Brooklyn Bowl",
-    "location": "Las Vegas, NV"
-  },
-  {
-    "artist": "Snarky Puppy",
-    "dates": ["03/16/17"],
-    "venue": "Hill Auditorium",
-    "location": "Ann Arbor, MI"
+    "artist": "The Avett Brothers",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Trey Anastasio Band",
-    "dates": ["05/06/17"],
-    "venue": "Royal Oak Music Theater",
-    "location": "Royal Oak, MI"
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Ween",
-    "dates": ["06/02/17"],
-    "venue": "Royal Oak Music Theater",
-    "location": "Royal Oak, MI"
+    "artist": "moe.",
+    "venue": "Boulder Theatre",
+    "location": "Boulder, CO",
+    "dates": [
+      "07/03/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Mustard Plug",
-    "dates": ["06/17/17"],
-    "venue": "Founders Fest",
-    "location": "Grand Rapids, MI"
+    "artist": "moe.",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "07/04/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Blues Traveler",
-    "dates": ["06/17/17"],
-    "venue": "Founders Fest",
-    "location": "Grand Rapids, MI"
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "07/04/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "The Accidentals",
-    "dates": ["06/17/17"],
-    "venue": "Founders Fest",
-    "location": "Grand Rapids, MI"
-  },
-  {
-    "artist": "Leftover Salmon",
-    "dates": ["06/17/17"],
-    "venue": "Founders Fest",
-    "location": "Grand Rapids, MI"
-  },
-  {
-    "artist": "Umphrey's McGee",
-    "dates": ["06/17/17"],
-    "venue": "Founders Fest",
-    "location": "Grand Rapids, MI"
-  },
-  {
-    "artist": "Bela Fleck and the Flecktones",
-    "dates": ["08/12/17"],
-    "venue": "Freedom Hill Ampitheater",
-    "location": "Sterling Heights, MI"
-  },
-  {
-    "artist": "Chick Corea Elektric Band",
-    "dates": ["08/12/17"],
-    "venue": "Freedom Hill Ampitheater",
-    "location": "Sterling Heights, MI"
-  },
-  {
-    "artist": "Snarky Puppy",
-    "dates": ["09/15/17"],
-    "venue": "The Crofoot Ballroom",
-    "location": "Pontiac, MI"
-  },
-  {
-    "artist": "Robert Glasper Experiment",
-    "dates": ["09/15/17"],
-    "venue": "The Crofoot Ballroom",
-    "location": "Pontiac, MI"
-  },
-  {
-    "artist": "Spafford",
-    "dates": ["10/14/17"],
-    "venue": "The Blind Pig",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Haley Jane and the Primates",
-    "dates": ["10/14/17"],
-    "venue": "The Blind Pig",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Victor Wooten Trio",
-    "dates": ["10/26/17"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "John McLaughlin",
-    "dates": ["11/15/17"],
-    "venue": "Michigan Theater",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Jimmy Herring",
-    "dates": ["11/15/17"],
-    "venue": "Michigan Theater",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Greensky Bluegrass",
-    "dates": ["02/09/18"],
-    "venue": "The Fillmore",
-    "location": "Detroit, MI"
-  },
-  {
-    "artist": "Cory Wong",
-    "dates": ["04/14/18"],
-    "venue": "The Blind Pig",
-    "location": "Ann Arbor, MI",
-    "notes": "wsg Antwuan Stanley. Encore included a cover of Steely Dan's Peg"
-  },
-  {
-    "artist": "The Wood Brothers",
-    "dates": ["04/18/18"],
-    "venue": "The Ark",
-    "location": "Ann Arbor, MI"
-  },
-  {
-    "artist": "Kung Fu",
-    "dates": ["10/26/18"],
-    "venue": "Winstons",
-    "location": "San Diego, CA",
-    "notes": "Part of Kung Fu's Fez west tour which includes awesome covers of Steely Dan songs.  They covered: Bodhisattva, Black Cow, Fez, Green Earrings, and Peg"
+    "artist": "Widespread Panic",
+    "venue": "Big Sky Ampitheatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/09/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Phish",
-    "dates": ["10/31/18", "11/01/18", "11/02/18", "11/03/18"],
-    "venue": "MGM Grand Garden Arena",
-    "location": "Las Vegas, NV",
-    "notes": "4-night halloween run. Halloween night was 3 sets and the other 3 nights were 2 sets. The middle set included a great prank by Phish in which they 'covered' a scandinavian prog band that they invented (Kasvot Växt)."
+    "venue": "Molson Canadian Amphitheatre",
+    "location": "Toronto, Ontario, Canada",
+    "dates": [
+      "07/22/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Greensky Bluegrass",
-    "dates": ["11/09/18"],
-    "venue": "The Observatory North Park",
-    "location": "San Diego, CA"
+    "artist": "Phish",
+    "venue": "Gorge Amphitheatre",
+    "location": "George, WA",
+    "dates": [
+      "07/26/2013"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Lil' Smokies",
-    "dates": ["11/09/18"],
-    "venue": "The Observatory North Park",
-    "location": "San Diego, CA",
-    "notes": "Awesome cover of Rocket man (Elton John)."
+    "artist": "Phish",
+    "venue": "Gorge Amphitheatre",
+    "location": "George, WA",
+    "dates": [
+      "07/27/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "EOTO",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/01/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Steve Kimock Band ft. Bernie Worrell",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/02/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Animal Liberation Orchestra",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/02/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/02/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Papadosio",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/02/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "John Scofield Uberjam",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/03/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/03/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "California Honey Drops",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/03/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Break Science",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/03/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Elephant Revival",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/04/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Del McCoury Band",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/04/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Horning's Hideout",
+    "location": "North Plain, OR",
+    "dates": [
+      "08/04/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Warren Haynes Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Government Mule",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Founding Fathers",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Zach Brown Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Furthur",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Hot Tuna Acoustic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The London Souls",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Punch Brothers",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Black Crowes",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Widespread Panic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "John Fogerty",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Furthur",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Terrapin Family Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Aquarium Rescue Unit",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Tedeschi Trucks Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Black Crowes",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Widespread Panic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Furthur",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Meadowbrook Amphitheatre",
+    "location": "Royal Oak, MI",
+    "dates": [
+      "08/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sound Tribe Sector Nine",
+    "venue": "Meadowbrook Amphitheatre",
+    "location": "Royal Oak, MI",
+    "dates": [
+      "08/08/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "State Theatre",
+    "location": "Kalamazoo, MI",
+    "dates": [
+      "10/30/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Riverside Theatre",
+    "location": "Milwaukee, WI",
+    "dates": [
+      "10/31/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Riverside Theatre",
+    "location": "Milwaukee, WI",
+    "dates": [
+      "11/1/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Riverside Theatre",
+    "location": "Milwaukee, WI",
+    "dates": [
+      "11/2/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Earthcry",
+    "venue": "The Loft",
+    "location": "Lansing, MI",
+    "dates": [
+      "10/11/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Papadosio",
+    "venue": "The Loft",
+    "location": "Lansing, MI",
+    "dates": [
+      "10/11/2013"
+    ],
+    "notes": ""
   },
   {
     "artist": "Snarky Puppy",
-    "dates": ["06/01/19"],
+    "venue": "The Loft",
+    "location": "Lansing, MI",
+    "dates": [
+      "01/15/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Fox Theatre",
+    "location": "Detroit, MI",
+    "dates": [
+      "02/01/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Leftover Salmon",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/17/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Gordon Band",
+    "venue": "The Neptune",
+    "location": "Seattle, WA",
+    "dates": [
+      "03/21/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jacob Fred Jazz Odyssey",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/28/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Dillon Band",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/28/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Yonder Mountain String Band",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "04/11/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Victor Wooten Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Matisyahu",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Blues Traveller",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Beats Antique",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Primus",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "EOTO",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Motet",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bill Evans Soulgrass",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Keller w/ More Than a Little",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Floodwood",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Fareed Haque and MathGames",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lotus",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Dillon Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Wood Brothers",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Keller Williams",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Zac Brown Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Everyone Orchestra",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bassnectar",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/26/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Stanley Jordan?",
+    "venue": "Lansing Jazz",
+    "location": "Lansing, MI",
+    "dates": [
+      "2014?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Travelin' McCourys",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/14/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Seun Kuti and Egypt 80",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/24/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Charles Bradley",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/31/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jeff Beck",
+    "venue": "Osprey Stadium",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/09/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Galactic",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/15/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sam Bush",
+    "venue": "River City Roots",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/23/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "08/29/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "08/30/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "08/31/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Wood Brothers",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lettuce",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Kool and the Gang w/ String Cheese",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Taj Mahal",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grateful Grass",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Del McCoury Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Preservation Hall Jazz Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Drive By Truckers",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bill Kreutzman Allstars",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phil and Friends w/ Scofield, Medeski, Russo and Haynes",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Chris Robinson Brotherhood",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/05/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grateful Grass",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Larry Keel and Sam Bush",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Freeman",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Gary Clark Jr.",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Tedeschi Trucks Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Wilco",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phil and Friends w/ Scofield, Medeski, Russo, and Haynes",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Steve Winwood w/ Widespread Panic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Tom Petty",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Hot Tuna Acoustic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grateful Gospel",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grace Potter",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Willie Nelson",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Wilco",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Widespread Panic",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Allman Brothers",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "09/07/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/31/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Brooklyn Bowl Vegas",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/31/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "11/01/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Hard Rock Cafe",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "11/01/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "DJ Logic",
+    "venue": "Brooklyn Bowl Vegas",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "11/02/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "venue": "Brooklyn Bowl Vegas",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "11/2/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "11/02/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Freeman",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "11/04/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "11/06/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "American Airlilnes Arena",
+    "location": "Miami, FL",
+    "dates": [
+      "12/31/2014"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "American Airlilnes Arena",
+    "location": "Miami, FL",
+    "dates": [
+      "01/01/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Holly Bowling",
+    "venue": "Adrienne Arsht Center",
+    "location": "Miami, FL",
+    "dates": [
+      "01/02/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "American Airlilnes Arena",
+    "location": "Miami, FL",
+    "dates": [
+      "01/02/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "American Airlilnes Arena",
+    "location": "Miami, FL",
+    "dates": [
+      "01/03/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "String Cheese Incident",
+    "venue": "Aragon Ballroom",
+    "location": "Chicago, IL",
+    "dates": [
+      "01/30/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "The Fillmore",
+    "location": "Detroit, MI",
+    "dates": [
+      "01/31/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Family Groove Company",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/23/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Grateful Grass",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "JRAD",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Freeman",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Floodwood",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Nahko and Medicine for the People",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Godboner",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Big Gigantic",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Steve Miller Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Keller Williams",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Victor Wooten Band",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Everyone Orchestra",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sound Tribe Sector Nine",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Widespread Panic",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/2?/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Summer Camp",
+    "location": "Chillicothe, IL",
+    "dates": [
+      "05/25/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Rush",
+    "venue": "The Palace of Auburn Hills",
+    "location": "Auburn Hills, MI",
+    "dates": [
+      "06/14/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Etienne Charles",
+    "venue": "Peppino's",
+    "location": "East Lansing, MI",
+    "dates": [
+      "06/19/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Dead",
+    "venue": "Soldier Field",
+    "location": "Chicago, IL",
+    "dates": [
+      "07/03/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Dead",
+    "venue": "Soldier Field",
+    "location": "Chicago, IL",
+    "dates": [
+      "07/04/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
     "venue": "House of Blues",
-    "location": "San Diego, CA"
+    "location": "Chicago, IL",
+    "dates": [
+      "07/04/2015"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Cory Wong",
-    "dates": ["10/27/19"],
-    "venue": "Music Box",
-    "location": "San Diego, CA"
+    "artist": "The Dead",
+    "venue": "Soldier Field",
+    "location": "Chicago, IL",
+    "dates": [
+      "07/05/2015"
+    ],
+    "notes": ""
   },
   {
-    "artist": "Moe.",
-    "dates": ["03/07/2020"],
-    "venue": "The Observatory North Park",
-    "location": "San Diego, CA",
-    "notes": "This was their last show before having to cancel shows due to COVID-19"
+    "artist": "Phish",
+    "venue": "Alpine Valley",
+    "location": "East Troy, WI",
+    "dates": [
+      "08/08/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Alpine Valley",
+    "location": "East Troy, WI",
+    "dates": [
+      "08/09/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "The Mann Center for the Performing Arts",
+    "location": "Philadelphia, PA",
+    "dates": [
+      "08/11/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "The Mann Center for the Performing Arts",
+    "location": "Philadelphia, PA",
+    "dates": [
+      "08/12/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sam Bush",
+    "venue": "Operahouse at Boothbay Harbor",
+    "location": "Boothbay Harbor, ME",
+    "dates": [
+      "08/17/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Watkins Glen International",
+    "location": "Watkins Glen, NY",
+    "dates": [
+      "08/21/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Watkins Glen International",
+    "location": "Watkins Glen, NY",
+    "dates": [
+      "08/22/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Watkins Glen International",
+    "location": "Watkins Glen, NY",
+    "dates": [
+      "08/23/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/04/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/05/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/06/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Primus and the Chocolate Factory",
+    "venue": "Big Sky Amphitheatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/09/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "New Mastersounds",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "10/11/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Snarky Puppy",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "11/18/2015"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Rigoletto ft. Leo Nucci and Nadine Sierra",
+    "venue": "La Scala",
+    "location": "Milan, IT",
+    "dates": [
+      "01/1?/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Railroad Earth",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "02/18/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Galactic",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "02/25/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jeff Austin Band",
+    "venue": "Nectar Lounge",
+    "location": "Seattle, WA",
+    "dates": [
+      "02/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dumpstaphunk",
+    "venue": "Arcata Theatre",
+    "location": "Arcata, CA",
+    "dates": [
+      "05/07/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Gorge Amphitheatre",
+    "location": "George, WA",
+    "dates": [
+      "07/15/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Gorge Amphitheatre",
+    "location": "George, WA",
+    "dates": [
+      "07/16/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Bill Graham Civic Auditorium",
+    "location": "San Francisco, CA",
+    "dates": [
+      "07/18/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Bill Graham Civic Auditorium",
+    "location": "San Francisco, CA",
+    "dates": [
+      "07/19/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Bill Graham Civic Auditorium",
+    "location": "San Francisco, CA",
+    "dates": [
+      "07/20/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Vulfpeck",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/25/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/25/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/25/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "JRAD",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/25/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Charles Bradley",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Peter Wolf",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "JRAD",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Circles Around the Sun",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/26/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phil and Friends ft. Jon Fishman, Page McConnel, Joe Russo, and Infamous Stringdusters",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/27/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Tedeschi Trucks Band",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/27/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "My Morning Jacket",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/27/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lettuce",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/27/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Chris Robinson Brotherhood",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/28/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phil and Friends w/ Chris Robinson and Gary Clark Jr.",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/28/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Gary Clark Jr.",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/28/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Lockn",
+    "location": "Arrington,VA",
+    "dates": [
+      "08/28/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Nils Lofgren",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Cage the Elephant",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jim James",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Norah Jones",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lukas Nelson and the Promise of the Real",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dave Matthews and Tim Reynolds",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Metallica",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Neil Young",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Roger Waters",
+    "venue": "Shoreline Amphitheatre",
+    "location": "Mountain View, CA",
+    "dates": [
+      "08/22/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Eric Krasno",
+    "venue": "Brick and Mortar",
+    "location": "San Francisco, CA",
+    "dates": [
+      "08/07/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Roosevelt Collier",
+    "venue": "Boom Boom Room",
+    "location": "San Francisco, CA",
+    "dates": [
+      "08/07/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Hollywood Palladium",
+    "location": "Hollywood, CA",
+    "dates": [
+      "08/13/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Bill Graham Civic Auditorium",
+    "location": "San Francisco, CA",
+    "dates": [
+      "08/14/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Bill Graham Civic Auditorium",
+    "location": "San Francisco, CA",
+    "dates": [
+      "08/15/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Andrew Bird",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/03/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Afroman",
+    "venue": "Monk's",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/16/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Turkuaz",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/20/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "New Mastersounds",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/20/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/28/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/29/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/30/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Electric Beethoven",
+    "venue": "Top Flight",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/30/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "MGM Grand Garden Arena",
+    "location": "Las Vegas, NV",
+    "dates": [
+      "10/31/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Electric Beethoven",
+    "venue": "Cervantes",
+    "location": "Denver, CO",
+    "dates": [
+      "11/12/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Uncle Acid and the Deadbeats",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/21/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Warren G",
+    "venue": "Adam's Center",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/06/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bone Thugz n Harmony",
+    "venue": "Adam's Center",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/06/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Snoop dogg",
+    "venue": "Adam's Center",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/06/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "John Kadlecik Band",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "09/07/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "March Fourth",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "2016?"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Motet",
+    "venue": "Neptune Theatre",
+    "location": "Seattle, WA",
+    "dates": [
+      "12/12/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/30/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/31/2016"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Chris Robinson Brotherhood",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "01/30/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/03/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Umphrey's Mcgee",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/04/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lettuce",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "03/07/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Trey Anastasio Band",
+    "venue": "Big Sky Ampitheatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "06/03/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Circles Around the Sun",
+    "venue": "The Ogden",
+    "location": "Denver, CO",
+    "dates": [
+      "06/08/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dead and Company",
+    "venue": "Folsom Field",
+    "location": "Boulder, CO",
+    "dates": [
+      "06/09/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "George Clinton and PFunk Allstars",
+    "venue": "Neptune Theatre",
+    "location": "Seattle, WA",
+    "dates": [
+      "07/29/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Marymoor Park",
+    "location": "Redmond, WA",
+    "dates": [
+      "07/02/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "07/12/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Ogden",
+    "location": "Denver, CO",
+    "dates": [
+      "07/13/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Ogden",
+    "location": "Denver, CO",
+    "dates": [
+      "07/14/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Kettlehouse Amphitheatre",
+    "location": "Bonner, MT",
+    "dates": [
+      "07/15/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Anders Osborne",
+    "venue": "River City Roots",
+    "location": "Missoula, MT",
+    "dates": [
+      "08/26/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "JRAD",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "08/31/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/01/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/02/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Dick's Sporting Goods Park",
+    "location": "Commerce City, CO",
+    "dates": [
+      "09/03/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Gordon Band",
+    "venue": "Boulder Theatre",
+    "location": "Boulder, CO",
+    "dates": [
+      "10/13/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Gordon Band",
+    "venue": "Boulder Theatre",
+    "location": "Boulder, CO",
+    "dates": [
+      "10/14/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Jimmy Herring and the Invisible Whip",
+    "venue": "The Fox",
+    "location": "Boulder, CO",
+    "dates": [
+      "09/09/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Sound Tribe Sector Nine (axe the cables)",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "09/10/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Buckethead",
+    "venue": "The Fox",
+    "location": "Boulder, CO",
+    "dates": [
+      "09/20/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Thundercat",
+    "venue": "Ogden Theatre",
+    "location": "Denver, CO",
+    "dates": [
+      "09/21/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Greensky Bluegrass",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "09/23/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dark Star Orchestra",
+    "venue": "Boulder Theatre",
+    "location": "Boulder, CO",
+    "dates": [
+      "09/28/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Turkuaz",
+    "venue": "Ogden Theatre",
+    "location": "Denver, CO",
+    "dates": [
+      "09/30/17"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "King Gizzard and the Lizard Wizard",
+    "venue": "The Ogden",
+    "location": "Denver, CO",
+    "dates": [
+      "10/04/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dinosaur Jr.",
+    "venue": "Gothic Theatre",
+    "location": "Denver, CO",
+    "dates": [
+      "10/24/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Bomb Factory",
+    "location": "Dallas, TX",
+    "dates": [
+      "10/31/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Reggie Watts",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "12/16/2017"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Victor Wooten Trio",
+    "venue": "Wilma Theatre",
+    "location": "Missoula, MT",
+    "dates": [
+      "01/16/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "06/05/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Red Rocks",
+    "location": "Morrison, CO",
+    "dates": [
+      "06/06/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Mike Dillon Band",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/07/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dean Ween Group",
+    "venue": "Top Hat",
+    "location": "Missoula, MT",
+    "dates": [
+      "07/07/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "The Wood Brothers",
+    "venue": "Kettlehouse Amphitheatre",
+    "location": "Bonner, MT",
+    "dates": [
+      "07/12/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Bela Fleck and the Flecktones",
+    "venue": "Kettlehouse Amphitheatre",
+    "location": "Bonner, MT",
+    "dates": [
+      "07/12/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "moe.",
+    "venue": "Wilma Theatre",
+    "location": "MIssoula, MT",
+    "dates": [
+      "10/10/2108"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Allstate Arena",
+    "location": "Rosemont, IL",
+    "dates": [
+      "10/26/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Royal Oak Music Theatre",
+    "location": "Royal Oak, MI",
+    "dates": [
+      "10/30/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "Aragon Ballroom",
+    "location": "Chicago, IL",
+    "dates": [
+      "10/31/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Rave",
+    "location": "Milwaukee, WI",
+    "dates": [
+      "11/2/2013"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Palace",
+    "location": "Minneapolis, MN",
+    "dates": [
+      "11/3"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "The Palace",
+    "location": "Minneapolis, MN",
+    "dates": [
+      "11/04/2018"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "JRAD",
+    "venue": "State Theatre",
+    "location": "Portland, ME",
+    "dates": [
+      "03/03/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Claypool Lennon Delirium",
+    "venue": "House of Blues",
+    "location": "Boston, MA",
+    "dates": [
+      "04/14/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Thundercat",
+    "venue": "Maine Savings Pavillion",
+    "location": "Westbrook, ME",
+    "dates": [
+      "05/26/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Earl Sweathshirt",
+    "venue": "Maine Savings Pavillion",
+    "location": "Westbrook, ME",
+    "dates": [
+      "05/26/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Anderson Paak",
+    "venue": "Maine Savings Pavillion",
+    "location": "Westbrook, ME",
+    "dates": [
+      "05/26/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Darling's Waterfront Pavillion",
+    "location": "Bangor, ME",
+    "dates": [
+      "06/25/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Phish",
+    "venue": "Darling's Waterfront Pavillion",
+    "location": "Bangor, ME",
+    "dates": [
+      "06/26/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "David Vareilles and Ravi Coltrane",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Dee Dee Bridgewater",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Buika",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Herbie Hancock, Vinnie Colaiuta, Christian McBride",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ghost Note",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Kamasi Washington",
+    "venue": "Newport Jazz",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Nate Smith and Kinfolk",
+    "venue": "Newport Blues Cafe",
+    "location": "Newport, RI",
+    "dates": [
+      "08/04/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "House of Blues",
+    "location": "Boston, MA",
+    "dates": [
+      "12/13/2019"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Ween",
+    "venue": "College Street Music Hall",
+    "location": "New Haven, CT",
+    "dates": [
+      "02/13/2020"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Kamasi Washington",
+    "venue": "State Theatre",
+    "location": "Portland, ME",
+    "dates": [
+      "02/26/2020"
+    ],
+    "notes": ""
+  },
+  {
+    "artist": "Lots of Small/ Shitty/ Unkown/ Forgotten bands",
+    "venue": "",
+    "location": "",
+    "dates": [
+      ""
+    ],
+    "notes": ""
   }
 ]
